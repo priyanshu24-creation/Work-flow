@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd Editorial_Style && npm install",
+  "buildCommand": "cd Editorial_Style && npm run build:vercel",
+  "outputDirectory": "Editorial_Style/.vercel/output"
+}
